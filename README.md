@@ -49,4 +49,8 @@ $\frac{{d}^{1/2}}{{d}^{1/2}{x}}(x^{5}) = \frac{\Gamma(5 + 1)}{\Gamma(5 + 1 - 1/2
 $=\frac{\Gamma(6)}{\Gamma(11/2)} \cdot x^{9/2}$
 $= \frac{5/2}{21\sqrt{\pi}} \cdot x^{9/2}$
 
+### Fractionally differentiating a dataset
+
+Fractionally differentiating a dataset retains comparitively more information or memory. On the contrary, integer-differentiated series such as returns exhibit a finite memory span, meaning that historical data is completely discarded after a certain sample window. When stationarity transformations erase all data memory, statisticians turn to intricate mathematical methods to capture any remaining residual signals, often leading to suprious results. 
+
 
