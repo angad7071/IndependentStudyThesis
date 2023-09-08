@@ -51,6 +51,10 @@ $= \frac{5/2}{21\sqrt{\pi}} \cdot x^{9/2}$
 
 ### Fractionally differentiating a dataset
 
-Fractionally differentiating a dataset retains comparitively more information or memory. On the contrary, integer-differentiated series such as returns exhibit a finite memory span, meaning that historical data is completely discarded after a certain sample window. When stationarity transformations erase all data memory, statisticians turn to intricate mathematical methods to capture any remaining residual signals, often leading to suprious results. 
+Fractionally differentiating a dataset retains comparitively more information or memory.On the contrary, integer-differentiated series such as returns exhibit a finite memory span, meaning that historical data is completely discarded after a certain sample window. When stationarity transformations erase all data memory, statisticians turn to intricate mathematical methods to capture any remaining residual signals, often leading to suprious results.
+We can note from the picture differences the immense amount of memory retained.
+<img width="1014" alt="IS-RD(USOIL)" src="https://github.com/angad7071/IndependentStudyThesis/assets/74730257/5033c55e-25ab-4da0-aee2-3d040e84338f">
+<img width="1013" alt="IS-RD(VEIN)" src="https://github.com/angad7071/IndependentStudyThesis/assets/74730257/054e55a5-6a49-491a-b84b-87692783143a">
+<img width="1012" alt="IS-RD(VOIL)" src="https://github.com/angad7071/IndependentStudyThesis/assets/74730257/650af25f-298e-4b81-b6a6-35f960135294">
 
 
